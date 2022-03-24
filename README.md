@@ -48,15 +48,16 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 N/A
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+
+A challenge I encountered in creating this submission was trying to understand some of the codes that I used, especially the JavaScript part. It was difficult to actually try to implement some of the functions since there were many parts needed for a function to allow the whole application to work. I feel like without the help of the already written instructions that were provided, I would be unable to write out this application. The parts including making a sound and changing the color of the buttons once the user clicks on it were some of the parts that would have been difficult for me if it wasn't for the instructions that were already provided. I've done stuff with Github so github wasn't that hard for me to understand. But overall this assignment wasn't that hard to understand as everything was explained very nicely and thoroughly.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+There's a few questions about web development after I completed this assignment such as how everything connected from html, css, and javascript to be able to create something all together. I think it's cool that just writing some javascript functions can actually create the sounds and color changes etc. This assignment has made me more intrigued in web development. This project was pretty fast for me to finish so I was wondering how long on average does a web developer usually take to create a whole working website or application.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
 
-
+If I had a few more hours to work on this project, I would try my best to implement more different levels of the game since having different levels of a game is a lot more fun then just having a single level. I also feel like the website application can be designed to look better than it does right now as it looks really plain right now. I think also adding multiple minigames would make this game a lot more fun for people to play with. Overall though, this basic application carries out what we wanted it to carry out, so I think it's very nice already.
 
 ## Interview Recording URL Link
 
